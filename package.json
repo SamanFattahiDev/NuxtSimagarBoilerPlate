@@ -1,0 +1,26 @@
+{
+  "name": "Ferman",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/auth-next": "5.0.0-1648802546.c9880dc",
+    "@nuxtjs/axios": "^5.13.6",
+    "core-js": "^3.15.1",
+    "nuxt": "^2.15.7",
+    "nuxt-lazy-load": "^1.2.9",
+    "nuxt-webpack-optimisations": "^2.2.5"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^8.3.0",
+    "install": "^0.13.0",
+    "npm": "^8.18.0",
+    "nuxt-compress": "^5.0.0",
+    "prettier": "^2.3.2"
+  }
+}
